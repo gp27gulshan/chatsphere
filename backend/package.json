@@ -14,7 +14,8 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "@clerk/express": "^2.1.23",
+    "@clerk/backend": "^3.16.8",
+    "@clerk/express": "^2.1.58",
     "@imagekit/nodejs": "^7.7.0",
     "cors": "^2.8.6",
     "cron": "^4.4.0",
